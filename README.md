@@ -2,7 +2,7 @@
 
 [![pub package](https://img.shields.io/npm/v/quidjs)](https://www.npmjs.com/package/quidjs)
 
-A requests library for the [Quid](https://github.com/teal-finance/quid) json web tokens server
+A requests library for the [Quid](https://github.com/lynxai-team/quid) json web tokens server
 
 This library transparently manages the JWT authentication
 when accessing an API servers:

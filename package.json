@@ -2,12 +2,12 @@
   "name": "quidjs",
   "version": "0.8.0",
   "description": "Requests library for the Quid JWT (JSON tokens) server",
-  "author": "Teal Finance",
+  "author": "The QuidJS contributors",
   "license": "MIT",
-  "homepage": "https://github.com/teal-finance/quidjs",
+  "homepage": "https://github.com/lynxai-team/quidjs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/teal-finance/quidjs"
+    "url": "https://github.com/lynxai-team/quidjs"
   },
   "scripts": {
     "build": "rollup -c",

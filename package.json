@@ -4,10 +4,10 @@
   "description": "Requests library for the Quid JWT (JSON tokens) server",
   "author": "The QuidJS contributors",
   "license": "MIT",
-  "homepage": "https://github.com/lynxai-team/quidjs",
+  "homepage": "https://github.com/TealsFi/quidjs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lynxai-team/quidjs"
+    "url": "https://github.com/TealsFi/quidjs"
   },
   "scripts": {
     "build": "rollup -c",
